@@ -23,7 +23,7 @@ const Hero = () => {
                 
                 <div className="relative z-10 text-center text-white max-w-6xl mx-auto px-6">
                 <h1 className="text-5xl lg:text-7xl font-bold mb-6 leading-tight">
-                    Zlepšite svoj CAD workflow 
+                    Zlepšite svoj CAD workflow 2
                     <br />
                     <span className="text-teal-300 text-5xl">expertnými nástrojmi a podporou</span>
                 </h1>
